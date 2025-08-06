@@ -45,12 +45,12 @@ const Home = () => {
                 View Projects
               </button>
               <a
-                  href="/Adarsh_R_Shenoy_Resume.pdf"
+                href="public/Adarsh_R_Shenoy_Resume.pdf"
                 download
-                  className="bg-gray-700 hover:bg-gray-600 text-white font-bold py-3 px-6 rounded-lg transition-colors duration-300 w-full sm:w-auto text-center"
-                >
-                  Download CV
-            </a>
+                className="bg-gray-700 hover:bg-gray-600 text-white font-bold py-3 px-6 rounded-lg transition-colors duration-300 w-full sm:w-auto text-center"
+              >
+                Download CV
+              </a>
 
             </div>
           </div>

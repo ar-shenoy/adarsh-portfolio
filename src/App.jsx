@@ -23,7 +23,7 @@ function App() {
           playsInline
           className="fixed top-0 left-0 w-full h-full object-cover z-10 blur-md opacity-80"
         >
-          <source src="/intro.mp4" type="video/mp4" />
+          <source src="public/intro.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
@@ -31,10 +31,10 @@ function App() {
         <div className="relative z-10">
           <MinimapNavbar />
           <div className="px-4 md:px-6 lg:px-20 text-white">
-              <section id="home"><Home /></section>
-              <section id="about"><About /></section>
-              <section id="projects"><Projects /></section>
-              <section id="contact"><Contact /></section>
+            <section id="home"><Home /></section>
+            <section id="about"><About /></section>
+            <section id="projects"><Projects /></section>
+            <section id="contact"><Contact /></section>
           </div>
         </div>
       </div>
