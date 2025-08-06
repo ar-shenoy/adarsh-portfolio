@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚔 GTA Portfolio - Developer Dashboard
 
 A modern, GTA-themed portfolio built with React, Vite, and Framer Motion. Features lazy loading, optimized performance, and a unique gaming-inspired design.
@@ -69,21 +68,6 @@ This will show:
 - Total bundle size
 - Gzipped size estimates
 - Performance recommendations
-
-## 🏗️ Architecture
-
-### Lazy Loading Structure
-```
-App.jsx
-├── Welcome (eager load)
-├── Navbar (eager load)
-├── MinimapNavbar (eager load)
-└── Sections (lazy load)
-    ├── Home
-    ├── About
-    ├── Projects
-    └── Contact
-```
 
 ### Bundle Chunks
 - **vendor**: React and React DOM
@@ -165,5 +149,4 @@ MIT License - feel free to use this portfolio as a template for your own project
 
 **Built with ❤️ and 🚔 GTA vibes**
 =======
-# adarsh-portfolio
->>>>>>> 838e56a00723d931478bb37391c86f36c5e2d6cc
+
