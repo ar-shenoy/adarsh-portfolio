@@ -83,8 +83,6 @@ const projectsData = [
     longDescription: "A unique portfolio website inspired by GTA's aesthetic.",
     features: ["GTA-themed animations", "Interactive skill tree"],
     challenges: ["Creating smooth animations", "Optimizing performance"],
-    github: "https://github.com/yourusername/gta-portfolio",
-    live: "https://gta-portfolio.vercel.app"
   },
   {
     title: "Data Analytics Dashboard",
