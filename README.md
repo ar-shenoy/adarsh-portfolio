@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚔 GTA Portfolio - Developer Dashboard
 
 A modern, GTA-themed portfolio built with React, Vite, and Framer Motion. Features lazy loading, optimized performance, and a unique gaming-inspired design.
@@ -163,3 +164,6 @@ MIT License - feel free to use this portfolio as a template for your own project
 ---
 
 **Built with ❤️ and 🚔 GTA vibes**
+=======
+# adarsh-portfolio
+>>>>>>> 838e56a00723d931478bb37391c86f36c5e2d6cc
