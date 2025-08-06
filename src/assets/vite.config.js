@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/adarsh-portfolio/', // 💥 REQUIRED for GitHub Pages deployment
+  base: '/adarsh-portfolio/',
   plugins: [react()],
   build: {
     minify: 'terser',
